@@ -42,3 +42,7 @@
 | Product Code      | Color     | Device       |
 :-------------------|:----------|:-------------|
 | SM-A405FZODDBT    | Orange    | Galaxy A40   |
+| SM-A405FZKDDBT    | Black     | Galaxy A40   |
+| SM-A405FZWDDBT    | White     | Galaxy A40   |
+| SM-A405FZBDDBT    | Blue      | Galaxy A40   |
+| SM-A405FZRDSEK    | Red       | Galaxy A40   |
