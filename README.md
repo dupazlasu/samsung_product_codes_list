@@ -24,6 +24,25 @@
 | SM-S901UZGAXAA   | Green          |   Galaxy S22          |
 | SM-S901UZWAXAA   | White          |   Galaxy S22          |
 
+- Galaxy S20 series
+
+| Product Code     | Color          |Device                 |
+:------------------|:---------------|:----------------------|
+| SM-G981BLBDEUB   |  Blue          |   Galaxy S20 5G       |
+| SM-G981BZADEUB   |  Gray          |   Galaxy S20 5G       |
+| SM-G986BLBDEUB   |  Blue          |   Galaxy S20+ 5G      |
+| SM-G986BZKDEUB   |  Black         |   Galaxy S20+ 5G      |
+| SM-G988BZKDEUB   |  Black         |   Galaxy S20 Ultra 5G |
+| SM-G988BZADEUB   |  Gray          |   Galaxy S20 Ultra 5G |
+
+- Galaxy Note20 series
+
+| Product Code     | Color          |Device                       |
+:------------------|:---------------|:----------------------------|
+| SM-N981BZAGEUE   |  Mystic Gray   |   Galaxy Note20 5G          |
+| SM-N981BZNGEUE   |  Mystic Bronze |   Galaxy Note20 5G          |
+| SM-N986BZKGEUE   |  Mystic Black  |   Galaxy Note20 Ultra 5G    |
+| SM-N986BZNGEUE   |  Mystic Bronze |   Galaxy Note20 Ultra 5G    |
 
 - Galaxy Foldables 4 series
 
@@ -35,7 +54,6 @@
 | SM-F721U4SEXAA    |           | Galaxy Flip4 |
 | SM-F721U5GEXAA    |           | Galaxy Flip4 |
 | SM-F721U2AEXAA    |           | Galaxy Flip4 |
-
 
 - Galaxy AX0 series
 
