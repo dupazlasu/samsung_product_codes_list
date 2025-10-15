@@ -2,7 +2,7 @@
 # NOTE: WIP
 
 
-- Galaxy S22 series
+### Galaxy S22 series
 
 | Product Code     | Color          |Device                 |
 :------------------|:---------------|:----------------------|
@@ -25,7 +25,7 @@
 | SM-S901UZWAXAA   | White          |   Galaxy S22          |
 
 
-- Galaxy Foldables 4 series
+### Galaxy Foldables 4 series
 
 | Product Code      | Color     | Device       |
 :-------------------|:----------|:-------------|
@@ -37,7 +37,7 @@
 | SM-F721U2AEXAA    |           | Galaxy Flip4 |
 
 
-- Galaxy AX0 series
+### Galaxy AX0 series
 
 | Product Code      | Color     | Device       |
 :-------------------|:----------|:-------------|
