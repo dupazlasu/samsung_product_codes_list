@@ -11,6 +11,7 @@
 | SM-S908UZAAXAA   | Graphite       |   Galaxy S22 Ultra    |
 | SM-S908UZWAXAA   | White          |   Galaxy S22 Ultra    |
 | SM-S908UZGAXAA   | Green          |   Galaxy S22 Ultra    |
+| SM-S908BZKDEUE   | Black          |   Galaxy S22 Ultra    |
 | SM-S906UZAEXAA   | Graphite       |   Galaxy S22+         |
 | SM-S906UZEEXAA   | Cream          |   Galaxy S22+         |
 | SM-S906ULBEXAA   | Sky Blue       |   Galaxy S22+         |
@@ -23,6 +24,7 @@
 | SM-S901UZVEXAA   | Violet         |   Galaxy S22          |
 | SM-S901UZGAXAA   | Green          |   Galaxy S22          |
 | SM-S901UZWAXAA   | White          |   Galaxy S22          |
+| SM-S901BZKDEUE   | Black          |   Galaxy S22          |
 
 - Galaxy S20 series
 
