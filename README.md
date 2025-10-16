@@ -1,7 +1,7 @@
 # Samsung's product code list
 # NOTE: WIP
 
-
+## Galaxy S series
 ### Galaxy S22 series
 
 | Product Code     | Color          |Device                 |
@@ -24,7 +24,7 @@
 | SM-S901UZGAXAA   | Green          |   Galaxy S22          |
 | SM-S901UZWAXAA   | White          |   Galaxy S22          |
 
-
+## Galaxy Foldables series 
 ### Galaxy Foldables 4 series
 
 | Product Code      | Color     | Device       |
@@ -36,7 +36,7 @@
 | SM-F721U5GEXAA    |           | Galaxy Flip4 |
 | SM-F721U2AEXAA    |           | Galaxy Flip4 |
 
-
+# Galaxy A series
 ### Galaxy AX0 series
 
 | Product Code      | Color     | Device       |
