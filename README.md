@@ -15,13 +15,14 @@
 | SM-S906UZAEXAA   | Graphite       |   Galaxy S22+         |
 | SM-S906UZEEXAA   | Cream          |   Galaxy S22+         |
 | SM-S906ULBEXAA   | Sky Blue       |   Galaxy S22+         |
-| SM-S906UZVEXAA   | Violet???      |   Galaxy S22+         |
+| SM-S906UZVEXAA   | Violet         |   Galaxy S22+         |
 | SM-S901UZAEXAA   | Graphite       |   Galaxy S22          |
 | SM-S906UZGAXAA   | Green          |   Galaxy S22+         |
 | SM-S906UZWAXAA   | White          |   Galaxy S22+         |
 | SM-S901UZEEXAA   | Cream          |   Galaxy S22          |
 | SM-S901ULBEXAA   | Sky Blue       |   Galaxy S22          |
-| SM-S901ULVEXAA   | Violet         |   Galaxy S22          |
+| SM-S901ULVEXAA   | Bora Purple    |   Galaxy S22          |
+| SM-S901UZVEXAA   | Violet         |   Galaxy S22          |
 | SM-S901UZGAXAA   | Green          |   Galaxy S22          |
 | SM-S901UZWAXAA   | White          |   Galaxy S22          |
 | SM-S901BZKDEUE   | Black          |   Galaxy S22          |
