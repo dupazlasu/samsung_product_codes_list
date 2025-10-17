@@ -16,9 +16,9 @@
 | SM-S906UZEEXAA   | Cream          |   Galaxy S22+         |
 | SM-S906ULBEXAA   | Sky Blue       |   Galaxy S22+         |
 | SM-S906UZVEXAA   | Violet         |   Galaxy S22+         |
-| SM-S901UZAEXAA   | Graphite       |   Galaxy S22          |
 | SM-S906UZGAXAA   | Green          |   Galaxy S22+         |
 | SM-S906UZWAXAA   | White          |   Galaxy S22+         |
+| SM-S901UZAEXAA   | Graphite       |   Galaxy S22          |
 | SM-S901UZEEXAA   | Cream          |   Galaxy S22          |
 | SM-S901ULBEXAA   | Sky Blue       |   Galaxy S22          |
 | SM-S901ULVEXAA   | Bora Purple    |   Galaxy S22          |
@@ -57,6 +57,16 @@
 | SM-F721U4SEXAA    |           | Galaxy Flip4 |
 | SM-F721U5GEXAA    |           | Galaxy Flip4 |
 | SM-F721U2AEXAA    |           | Galaxy Flip4 |
+
+- Galaxy AX7 series
+| Product Code      | Color        | Device        |
+:-------------------|:-------------|:--------------|
+| SM-A176BZBAEUE    | Blue         | Galaxy A17 5G |
+| SM-A176BZAAEUE    | Gray         | Galaxy A17 5G |
+| SM-A176BZKDEUE    | Black        | Galaxy A17 5G |
+| SM-A175FLBBEUE    | Light Blue   | Galaxy A17    |
+| SM-A075FZKIPHL    | Black        | Galaxy A07    |
+| SM-A075FLVGPHL    | Light Violet | Galaxy A07    |
 
 - Galaxy AX0 series
 
